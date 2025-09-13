@@ -137,7 +137,7 @@ st.markdown(
     """
     <h3 style="display: flex; align-items: center; gap: 10px;">
         <img src="https://raw.github.com/shaziasulthana-commits/BookQuizApp/main/images/EQLogo.jpg" alt="Logo" width="80">
-        EduQuest: AI Smart Book Quiz Generator
+        EduQuest: AI Smart Quiz Generator
     </h3>
     """,
     unsafe_allow_html=True
