@@ -136,7 +136,7 @@ st.set_page_config(page_title="Hafsa AI Quiz Generator", layout="centered")
 st.markdown(
     """
     <h1 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://github.com/shaziasulthana-commits/BookQuizApp/blob/main/images/EQLogo.jpg" alt="Logo" width="60">
+        <img src="https://raw.github.com/shaziasulthana-commits/BookQuizApp/main/images/EQLogo.jpg" alt="Logo" width="60">
         EduQuest: AI Smart Book Quiz Generator
     </h1>
     """,
