@@ -131,7 +131,9 @@ def generate_summary_pdf(quiz, user_answers, final_score, filename="summary_repo
 
 # --- Streamlit App ---
 st.set_page_config(page_title="Hafsa AI Quiz Generator", layout="centered")
-st.title("📚 EduQuest AI-Powered Book Quiz Generator")
+# Display logo at the top
+st.image("images/EQlogo.png", width=120)  # Adjust width as needed
+st.title("📚 EduQuest AI – Smart Book Quiz Generator")
 
 # --- Session state ---
 if "quiz_data" not in st.session_state:
